@@ -4,7 +4,8 @@ An implementation of Deep Dream in Keras, with examples. A bare bones version is
 Method:
 
 1) Load and preprocess image. Save 2 more copies.
-2) Select a layer(s) in the network. The sum of this layer (the activations at this depth in the network) is to be maximised. The loss is the negtaive of this sum.
+2) Select a layer(s) in the network. The sum of this layer (the activations at this depth in the network) is to be maximised. 
+   The loss is the negtaive of this sum.
 3) Shrink the image down, and one of the copies.
 4) For successivly larger image sizes:
   Enlarger the input image and copy.
