@@ -11,7 +11,7 @@ Method:
 
 4.1)Enlarge the input image and copy.
 
-4.2)Shirink the second copy down to the current size.
+4.2)Shrink the second copy down to the current size.
   
 4.3)The difference between the two copies is the information lost through enlarging the image.
 
